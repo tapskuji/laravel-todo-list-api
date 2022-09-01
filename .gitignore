@@ -12,3 +12,4 @@ npm-debug.log
 yarn-error.log
 /my_tests
 /1_notes
+/tests/coverage
