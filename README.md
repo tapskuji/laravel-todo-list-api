@@ -15,6 +15,8 @@ Build a REST API using laravel.
 - Write some tests
 - Code coverage of tests
 - Document how to use the API
+- Use cache to increase performance
+- Use database index to increase performance
 
 ## Technology stack used in this project
 
